@@ -1,2 +1,2 @@
 
-Copyright (C) 2020 SQ
+Copyright (C) 2020 Greensley Limited
